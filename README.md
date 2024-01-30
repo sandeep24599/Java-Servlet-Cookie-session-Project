@@ -1,4 +1,4 @@
-# Servlet Cookie Session Management Project 
+# Session Management in Java - Cookies
 This is a simple Java web application demonstrating session management using cookies in Servlets. The project allows users to log in, tracks their session using cookies, and provides a logout functionality.
 Project Structure
 
